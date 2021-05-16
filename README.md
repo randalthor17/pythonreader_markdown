@@ -19,3 +19,5 @@
 15. [Doctests](15.Doctests.md)
 16. [Images](16.Images.md)
 17. [TextGrid](17.TestGrid.md)
+18. [Lists](18.Lists.md)
+19. [Strings](19.Strings.md)
