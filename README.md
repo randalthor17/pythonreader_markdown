@@ -21,3 +21,5 @@
 17. [TextGrid](17.TestGrid.md)
 18. [Lists](18.Lists.md)
 19. [Strings](19.Strings.md)
+20. [Dictionaries](20.Dictionaries.md)
+21. [Files](21.Files.md)
